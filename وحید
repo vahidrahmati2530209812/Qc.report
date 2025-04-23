@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>اپلیکیشن گزارش QC</title>
+</head>
+<body style="font-family: Tahoma; text-align: center; margin-top: 50px;">
+  <h1>اپلیکیشن گزارش QC</h1>
+  <p>از اینجا می‌تونید فایل نصب اپلیکیشن رو دانلود کنید:</p>
+  <a href="https://github.com/vahidrahmati2530209812/QC/raw/main/QC_Report_App_Demo.apk" download>
+    دانلود فایل APK
+  </a>
+</body>
+</html>
